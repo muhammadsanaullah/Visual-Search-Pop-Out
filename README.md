@@ -1,4 +1,4 @@
-# VisualSearch and PopOut Experiment: based on Treisman & Gelade's Theory of Attention in Neuroscience
+## VisualSearch and PopOut Experiment: based on Treisman & Gelade's Theory of Attention in Neuroscience
 
 In 1980, a study was conducted by Treisman and Gelade to test a hypothesis for a feature-integration theory of attention. Understanding the way the mind perceives sensory stimulus into different features helps better understand fundamental concepts in cognitive psychology and neuroscience. The measure of reaction time provides a good insight into the intensities of cognitive processes by seeing how long certain processes take.
 
